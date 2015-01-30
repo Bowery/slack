@@ -1,5 +1,5 @@
 // Package slack is a client library for Slack.
-
+//
 // Usage:
 /*
   package main
