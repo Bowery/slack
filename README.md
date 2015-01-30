@@ -3,7 +3,7 @@
 
 [![GoDoc](https://godoc.org/github.com/Bowery/slack?status.png)](https://godoc.org/github.com/Bowery/slack)
 
-Golang api wrapper for Slack. Currently only for sending text messages in public channels.
+Golang client library for posting messages in Slack.
 
 ## License
 
